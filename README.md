@@ -1,5 +1,7 @@
 # simple-chart
 
+A project to showing a different chart from apexcharts components.
+
 ## Project setup
 ```
 npm install
